@@ -1,0 +1,9 @@
+body {
+  background-color: #f1f1f1;
+}
+@import '../../components/Loader/loader';
+@import 'variable/layout';
+@import 'helper/loading';
+@import '../../scenes/home/home';
+@import '../../components/Modal/modal';
+
